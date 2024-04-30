@@ -1,0 +1,7 @@
+{
+    "notepad-plus-plus" : {
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.x64.exe",
+        "installer": "exe",
+        "switches": "/S"
+    }
+}
